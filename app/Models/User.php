@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Models;
 
 //Notifiable是消息通知相关功能的引用
 use Illuminate\Notifications\Notifiable;
